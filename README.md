@@ -22,3 +22,5 @@ DISUSUN OLEH
 ### HW5 => Membuat Document  metode dan hasil pembuatan indeks (tugas 5)
 
 ### HW6 => Membuat Document  metode dan hasil kompresi indeks (tugas 6)
+
+### HW7 => Membuat Paper yang menggabungkan tugas 1,2,3,4,5,6 + Presentasi (tugas 7)
