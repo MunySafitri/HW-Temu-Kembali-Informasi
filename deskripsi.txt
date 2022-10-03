@@ -1,0 +1,1 @@
+Kompresi index as string
