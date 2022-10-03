@@ -1,0 +1,1 @@
+melakukan transformasi pada tahun, menambahkan atribut tahun, isi dan kategori
