@@ -1,4 +1,12 @@
 # HW-Temu-Kembali-Informasi
+DISUSUN OLEH
+
+Ferdiansyah Dwi Nurcahyo						      (20/459265/PA/19926)
+
+Muny Safitri                      			  (22/506376/NUGM/01039)
+
+Raden Mas Garda            						    (20/459275/PA/19996)
+
 Document 1,2,3,4,5,6, dataset, dan source code untuk memenuhi tugas Temu Kembali Informasi
 
 
